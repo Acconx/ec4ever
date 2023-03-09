@@ -90,5 +90,5 @@ function timeElapse(date) {
 }
 
 function showMessages() {
-    $('#messages').fadeIn(4000);
+    $('#messages').show();
 }
